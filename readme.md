@@ -33,7 +33,7 @@ python scraper.py URL DEPTH SEARCH_STRING OUTPUT_FILE RUN_TIME
 ### Example
 
 \```bash
-python scraper.py "https://www.example.com" 2 "search term" "output.txt" 300
+python webscrape.py "https://www.example.com" 2 "search term" "output.txt" 300
 \```
 
 ## Notes
